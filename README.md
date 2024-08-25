@@ -13,6 +13,7 @@ This is a simple, interactive To-Do List web application built using HTML, CSS, 
 
 ##screenshot
 
+![Screenshot from 2024-08-25 11-25-08](https://github.com/user-attachments/assets/45f12861-c994-4bcf-968b-c9632a348ed6)
 
 
 ## Features

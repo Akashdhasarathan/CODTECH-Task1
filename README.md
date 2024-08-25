@@ -1,52 +1,42 @@
-# CODTECH TASK-1
+
+# To-Do List Application
+
 **Name:** AKASH.D<br>
 **Company:** CODTECH IT SOLUTIONS<br>
 **InternID:** CT6WTDS307<br>
 **Domain:** Full Stack Development<br>
 **Duration:** July 10th to August 25th<br>
 **Mentor:** Muzammhil Ahmed
-# Weather App
+## Overview
 
-This is a simple Weather App that fetches current weather data from an API and displays it for a given city. The app is built using HTML, CSS, and JavaScript.
+This is a simple, interactive To-Do List web application built using HTML, CSS, and JavaScript. The application allows users to manage their daily tasks by adding, marking as complete, and deleting tasks. The main goal of this project is to demonstrate fundamental web development skills and the ability to create a user-friendly interface.
+
+##screenshot
+
+
 
 ## Features
 
-- **Search Weather by City**: Enter the name of any city to get the current weather.
-- **Weather Details**: Displays temperature, humidity, wind speed, and weather description.
-- **Responsive Design**: The app is responsive and works well on different screen sizes.
-
-## Screenshots
-
-
+- **Add Task:** Easily add new tasks to the list.
+- **Mark as Complete:** Users can mark tasks as complete by clicking on them.
+- **Delete Task:** Remove tasks that are no longer needed.
+  
 ## Technologies Used
 
-- **HTML5**: For the structure of the app.
-- **CSS3**: For styling the app.
-- **JavaScript (ES6+)**: For fetching data from the weather API and updating the UI dynamically.
+- **HTML:** For structuring the content of the application.
+- **CSS:** For styling the application to make it visually appealing.
+- **JavaScript:** For adding interactivity and handling the functionality of the to-do list.
 
-## Setup
+## Getting Started
 
 ### Prerequisites
 
-- A modern web browser.
-- Basic knowledge of HTML, CSS, and JavaScript.
+- A web browser (Chrome, Firefox, Safari, etc.)
+- No additional installations are required.
 
 ### Installation
 
-1. Clone the repository:
+1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/keerthivasan-87/weather-app.git
+   git clone https://github.com/keerthivasan-97/CODTECH-TASK-2.git
 
-## Navigate to the project directory:
-- cd weather-app
-- Open the index.html file in your browser to view the app.
-
-## API Configuration
-- This app uses the OpenWeatherMap API to fetch weather data. Follow these steps to set up the API:
-
-- Sign up at OpenWeatherMap and get your API key.
-
-- In the JavaScript file (script.js), replace YOUR_API_KEY with your actual API key:
-
-```bash
-  const apiKey = 'YOUR_API_KEY';
